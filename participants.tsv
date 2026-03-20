@@ -1,8 +1,8 @@
-participant_id	species
-sub-Mouse12	Mus musculus
-sub-Mouse17	Mus musculus
-sub-Mouse20	Mus musculus
-sub-Mouse24	Mus musculus
-sub-Mouse25	Mus musculus
-sub-Mouse28	Mus musculus
-sub-Mouse32	Mus musculus
+participant_id	original_participant_id	species
+sub-Mouse12	sub-Mouse12	Mus musculus
+sub-Mouse17	sub-Mouse17	Mus musculus
+sub-Mouse20	sub-Mouse20	Mus musculus
+sub-Mouse24	sub-Mouse24	Mus musculus
+sub-Mouse25	sub-Mouse25	Mus musculus
+sub-Mouse28	sub-Mouse28	Mus musculus
+sub-Mouse32	sub-Mouse32	Mus musculus
